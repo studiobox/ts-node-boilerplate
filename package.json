@@ -1,5 +1,5 @@
 {
-  "name": "backend",
+  "name": "ts-node-boilerplate",
   "version": "1.0.0",
   "description": "NodeJS with TypeScript and Express backend application boilerplate. Best for developing RESTFull application.",
   "main": "server.js",
